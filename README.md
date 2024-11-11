@@ -47,8 +47,6 @@
 
 - 🔭 I’m currently working on **Alegator**, a project in collaboration with my team.
 - 🌱 I’m currently learning **DevOps** and **GDScript**.
-- 🤔 I’m looking for help with **advanced DevOps** concepts.
-- 💬 Ask me about **vanilla DayZ**, **video game development**, or **web development using .tsx**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edwardperxz/)
 - ⚡ Fun fact: I've been a lifelong fan of **FC Barcelona**!
 
