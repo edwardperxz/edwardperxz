@@ -37,7 +37,7 @@
 
 ## 🙋🏻‍♂️ About me
 
-- 🔭 I’m currently working on **Alegator** and ChobekaBlogs, some projects in collaboration with my team.
+- 🔭 Currently building **Alegator** and **ChobekaBlogs** — team-driven projects focused on real-world solutions.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edwardperxz/)
 - ⚡ Fun fact: I've been a lifelong fan of **FC Barcelona**!
 
