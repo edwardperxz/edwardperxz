@@ -1,6 +1,6 @@
 <h1 align='center'>Hi 👋🏼, my name is Edward Pérez</h1>
 
-### I'm a Full-Stack Web Developer, Software Development Student from Panamá <h3 align='center'><img alt="Panama Flag" style='height: 2rem' src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg'></h3>
+### I'm a Full-Stack Web Developer and passionate Software Development Student from Panamá <h3 align='center'><img alt="Panama Flag" style='height: 2rem' src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg'></h3>
 
 ## 🦾 Skills
 **👨🏻‍🎨 Frontend:**
