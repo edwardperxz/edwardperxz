@@ -37,7 +37,7 @@
 
 ## 🙋🏻‍♂️ About me
 
-- 🔭 Currently building **Alegator** and **ChobekaBlogs** — team-driven projects focused on real-world solutions.
+- 🔭 Currently building **Alegator** and **BusNow** — team-driven projects focused on real-world solutions.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edwardperxz/)
 - ⚡ Fun fact: I've been a lifelong fan of **FC Barcelona**!
 
