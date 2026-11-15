@@ -4,4 +4,4 @@
 
 ---
 
-**Have an idea ready to grow?** [Let’s talk](https://edwardcode.com/#contact/) · [Explore my work](https://edwardcode.com)
+**Have an idea ready to grow?** [Let’s talk](https://edwardcode.com/#contact) · [Explore my work](https://edwardcode.com)
